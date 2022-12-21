@@ -1,0 +1,1 @@
+#!/bin/bash\ncut -d : -f | /etc/passwd | sort 
